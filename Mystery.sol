@@ -6,7 +6,7 @@ contract Mystery {
     uint aa;
     uint bb;
 
-    function proxy(address a) public {
+    function Mystery(address a) public {
         add = a;
     }
 
